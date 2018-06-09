@@ -14,3 +14,12 @@ Matlab
 #### 使用
 登录界面分为【个人】和【群体】，对应着不同的功能。
 上传心理量表，直接选择main文件中的那个模版Excel表就行。
+
+#### 界面截图
+ ![image](https://github.com/AnRanbel/PsychologicalAssessmentSystem/raw/master/main/images/1.png)
+ ![image](https://github.com/AnRanbel/PsychologicalAssessmentSystem/raw/master/main/images/2.png)
+ ![image](https://github.com/AnRanbel/PsychologicalAssessmentSystem/raw/master/main/images/3.png)
+ ![image](https://github.com/AnRanbel/PsychologicalAssessmentSystem/raw/master/main/images/4.png)
+ ![image](https://github.com/AnRanbel/PsychologicalAssessmentSystem/raw/master/main/images/5.png)
+ ![image](https://github.com/AnRanbel/PsychologicalAssessmentSystem/raw/master/main/images/6.png)
+ ![image](https://github.com/AnRanbel/PsychologicalAssessmentSystem/raw/master/main/images/7.png)
